@@ -305,4 +305,4 @@ token to run the Actor. Get one free at https://apify.com?fpr=9n7kx3 .
 - Apify Python client docs: https://docs.apify.com/api/client/python/
 - Apify MCP docs: https://docs.apify.com/platform/integrations/mcp
 
-Last Updated: 2026.09.25
+Last Updated: 2026.09.26
